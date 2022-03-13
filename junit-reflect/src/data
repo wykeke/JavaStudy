@@ -1,0 +1,10 @@
+================Student================
+name s学生
+sex 男
+age 1000
+className 1班
+hobby 吃，睡
+================Teacher================
+name t老师
+sex 男
+salary 6000.0
