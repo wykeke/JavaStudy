@@ -12,7 +12,8 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/app" />
-            <option value="$PROJECT_DIR$/javastudy" />
+            <option value="$PROJECT_DIR$/junit_reflectlib" />
+            <option value="$PROJECT_DIR$/xmldatalib" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
