@@ -1,4 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>
+<!--可以约束XML文件的标签内容格式，以及具体的数据类型。
+    本身也是xml文件，格式更严谨。-->
 <schema xmlns="http://www.w3.org/2001/XMLSchema"
         targetNamespace="http://www.itcast.cn"
         elementFormDefault="qualified" >
