@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!-- <?xml version="1.0" encoding="utf-8" ?> 必须放在首行
+    XML文件中可以存在以下特殊字符
+    &lt; < 小于
+    &gt; > 大于
+    &amp; & 和号
+    &apos; ' 单引号
+    &quot; " 引号
+    XML文件中可以存在CDATA区: <![CDATA[ …内容… ]]>-->
+<!DOCTYPE 书架 SYSTEM "data.dtd">
+<书架>
+    <书>
+        <书名>book</书名>
+        <作者>author</作者>
+        <售价>100</售价>
+    </书>
+</书架>
